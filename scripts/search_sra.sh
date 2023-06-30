@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Lista de IDs SRR
-srr_ids=("SRR5632497" "SRR5632503")
+srr_ids=("SRRXXXXX")
 
 # Iterar sobre cada ID SRR
 for srr_id in "${srr_ids[@]}"; do
