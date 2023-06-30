@@ -2,40 +2,40 @@
 
 ### Introduction
 
-Neste repositório é mencionado o passo-a-passo de como foi realizado e de como podes realizar o Assignment 2 da Unidade Curricular de Análise de Sequências Biológicas. Neste repositório contém os scripts que foram utilizados para realizar este Assignment.
+In this repository you will find the step-by-step instructions on how the Assignment 2 of the Biological Sequences Analysis Curricular Unit was done and how you can do it. This repository contains the scripts that were used to make this Assignment.
 
-#### Passo-a-passo do SRA<br>
-Segue abaixo o readme do tutorial do SRA<br>
+#### SRA Step-by-step
+Below is the readme from the SRA tutorial<br>
 <a target="_balnk" href="https://github.com/jonnymoretti/ScriptsCodes_Assignment2/blob/main/sratools.md">
     <img src="https://img.shields.io/badge/SRA Tutorial-blue?style=flat-square" alt=" ">
 </a>
 
-#### Passo-a-passo do ipyrad<br>
-Segue abaixo o readme do tutorial do ipyrad<br>
+#### ipyrad Step-by-step
+Here is the readme from the ipyrad tutorial<br>
 <a target="_balnk" href="https://github.com/jonnymoretti/ScriptsCodes_Assignment2/blob/main/ipyrad.md">
     <img src="https://img.shields.io/badge/ipyrad Tutorial-blue?style=flat-square" alt=" ">
 </a>
 
-#### Passo-a-passo do STRUCTURE<br>
-Segue abaixo o readme do tutorial do STRUCTURE<br>
+#### STRUCTURE Step-by-step
+Here is the readme from the STRUCTURE tutorial<br>
 <a target="_balnk" href="https://github.com/jonnymoretti/ScriptsCodes_Assignment2/blob/main/STRUCTURE.md">
     <img src="https://img.shields.io/badge/STRUCTURE Tutorial-blue?style=flat-square" alt=" ">
 </a>
 
-#### Script do PCA<br>
-Segue abaixo o readme do script do PCA realizado no programa do RStudio v4.2.1<br>
+#### PCA Script
+Below is the readme of the PCA script made in the RStudio v4.2.1 program<br>
 <a target="_balnk" href="https://github.com/jonnymoretti/ScriptsCodes_Assignment2/blob/main/PCA/R%20script%20and%20files/PCA.R">
     <img src="https://img.shields.io/badge/PCA Script-blue?style=flat-square" alt=" ">
 </a>
 
-#### Intalação do miniconda3 (opcional)<br>
-Segue abaixo readme do tutorial da instalação do miniconda3 no computador<br>
+#### Installing the miniconda3 (optional)
+Here is a readme from the tutorial on how to install miniconda3 on your computer<br>
 <a target="_balnk" href="https://github.com/jonnymoretti/ScriptsCodes_Assignment2/blob/main/STRUCTURE.md">
-    <img src="https://img.shields.io/badge/Instalação do miniconda3-blue?style=flat-square" alt=" ">
+    <img src="https://img.shields.io/badge/miniconda3 Installation-blue?style=flat-square" alt=" ">
 </a>
 
-#### Scripts Utilizados<br>
-Segue abaixo os scripts que foram utilizados neste Assignment 2<br>
+#### Scripts Used
+Here are the scripts that were used in this Assignment 2<br>
 <a target="_balnk" href="https://github.com/jonnymoretti/ScriptsCodes_Assignment2/tree/main/scripts">
     <img src="https://img.shields.io/badge/Scripts-blue?style=flat-square" alt=" ">
 </a>
