@@ -2,7 +2,9 @@
 
 ### Introduction
 
-In this repository you will find the step-by-step instructions on how the Assignment 2 of the Biological Sequences Analysis Curricular Unit was done and how you can do it. This repository contains the scripts that were used to make this Assignment.
+High throughput sequencing, also known as high-throughput or large-scale sequencing, refers to an advanced technique for determining the sequence of DNA or RNA quickly and efficiently. One of the advantages of this technology is enabling the analysis of large amounts of genetic material in a short period of time.
+High throughput sequencing is based on parallel sequencing methods, in which multiple sequencing reactions are carried out simultaneously. This is achieved by fragmenting the DNA or RNA into small pieces and amplifying these fragments to create millions of copies. Each fragment is then sequenced independently.
+For this project we used a particular High Throughput Sequencing platform named Rad-seq with the intent of replicating the results of our chosen scientific article(Hauser et al. 2017).
 
 #### SRA Step-by-step
 Below is the readme from the SRA tutorial<br>
@@ -38,4 +40,10 @@ Here is a readme from the tutorial on how to install miniconda3 on your computer
 Here are the scripts that were used in this Assignment 2<br>
 <a target="_balnk" href="https://github.com/jonnymoretti/ScriptsCodes_Assignment2/tree/main/scripts">
     <img src="https://img.shields.io/badge/Scripts-blue?style=flat-square" alt=" ">
+</a>
+
+#### HTML Script
+Below is the HTML script used to run the Assignment 2 report<br>
+<a target="_balnk" href="https://github.com/jonnymoretti/jonnymoretti.github.io">
+    <img src="https://img.shields.io/badge/HTML-blue?style=flat-square" alt=" ">
 </a>
