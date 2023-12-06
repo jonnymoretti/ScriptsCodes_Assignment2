@@ -1,5 +1,11 @@
 # Scripts and Codes - Assignment2
 
+### Report
+
+The report is located in another repository, you can access the repository by clicking on the link below:
+
+<a href="https://github.com/jonnymoretti/jonnymoretti.github.io"><img src="https://img.shields.io/badge/Report-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+
 ### Introduction
 
 High throughput sequencing, also known as high-throughput or large-scale sequencing, refers to an advanced technique for determining the sequence of DNA or RNA quickly and efficiently. One of the advantages of this technology is enabling the analysis of large amounts of genetic material in a short period of time.
